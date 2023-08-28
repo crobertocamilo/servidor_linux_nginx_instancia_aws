@@ -27,7 +27,7 @@ Passos de execução do projeto em uma conta AWS disponibilizada no Programa de 
 
 O seguinte esquema sintetiza a arquitetura proposta nesta avaliação:
 
-<img src='assets/aws_web_server.jpg' width='50%'>
+<img src='../assets/aws_web_server.jpg' width='50%'>
 
 
 ***
